@@ -1,9 +1,23 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Vinay!
-👩🏻‍💻 Fellow Student at ![NextWave]<br/>
-👩🏻‍🎓 Studying [Computer Science(AI & ML)] at SV College of Engineering, Tirupati <br/>
-💭 Currently learning Full Stack Web development !<br/>
+
+<h3 align="left">Fellow Student at NextWave</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinay-54&label=Profile%20views&color=0e75b6&style=flat" alt="vinay-54" /> </p>
+
+- 🔭 I’m currently Studying **at SV College Of Engineering**
+
+- 🌱 I’m currently learning **Full Stack Web Development and 4.0 Technologies**
+
+- 📫 How to reach me **vinaydesign54@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/vinaym08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinaym08" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vinay kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinay kumar" height="30" width="40" /></a>
+<a href="https://instagram.com/vinay_m08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinay_m08" height="30" width="40" /></a>
+</p>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=vinay-54&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
