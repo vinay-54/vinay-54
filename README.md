@@ -4,7 +4,6 @@
 
 <h3 align="left">Fellow Student at NextWave</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinay-54&label=Profile%20views&color=0e75b6&style=flat" alt="vinay-54" /> </p>
 
 - 🔭 I’m currently Studying **at SV College Of Engineering**
 
