@@ -20,6 +20,12 @@
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=vinay-54&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<p align="center">
+  <img src="https://media1.tenor.com/m/wF5RiCnfj34AAAAd/work-computer.gif" width="300px" />
+</p>
+
+
+
 
 
 ### 🧰 Languages and Tools
@@ -33,3 +39,10 @@
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <br />
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthikanegouni/Karthikanegouni/refs/heads/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthikanegouni/Karthikanegouni/refs/heads/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Karthikanegouni/Karthikanegouni/refs/heads/output/github-snake.svg" />
+</picture>
